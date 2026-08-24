@@ -1,9 +1,4 @@
 
-!pip install git+https://github.com/tensorflow/examples.git
-!pip install -U keras
-!pip install -q tensorflow_datasets
-!pip install -q -U tensorflow-text tensorflow
-
 import numpy as np
 
 import tensorflow as tf
